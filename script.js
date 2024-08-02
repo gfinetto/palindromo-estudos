@@ -7,5 +7,5 @@ campodigitePalavra.addEventListener('keyup', function() {
 })
 
 btnVerificaPalavra.addEventListener('click', function() {
-    return valorCampo.textHtml;
+    
 })
